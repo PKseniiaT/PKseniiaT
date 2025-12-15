@@ -21,4 +21,3 @@ Here's a bit about me:
 - **[Diagrams](https://github.com/PKseniiaT/Work-Collection/tree/main)** – notes on choosing between synchronous and event-driven communication.
 
 > **Ready to contribute to projects where detailed analysis, clear design, and cross-functional collaboration are key.**
--->
